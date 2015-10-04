@@ -2,8 +2,8 @@
 Autonomous driving RC model car
 
 # About
-The goal is the development of an autonomous driving RC model car. 
-The car itself is not part of the development. 
+The goal is the development of an autonomous driving RC model car.  
+The car itself is not part of the development.  
 - STM32 Discovery board
 - doughter board for connectors
 - MATLAB Simulink controller / governor
